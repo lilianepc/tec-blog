@@ -1,2 +1,2 @@
 # tec-blog
- projeto udemy tec-blog
+ site curso udemy
